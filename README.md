@@ -29,6 +29,6 @@ Contrastive PCA (cPCA) is an unsupervised learning method that identifies patter
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Dhruban/cpca-601.git
-   cd cpca-601
+   git clone https://github.com/Dhruban/cpca_601.git
+   cd cpca_601
    
